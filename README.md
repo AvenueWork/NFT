@@ -1,2 +1,2 @@
 # NFT
-NFT project: HTML/CSS
+NFT project: HTML/CSS/JS
